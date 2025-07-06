@@ -1,2 +1,14 @@
-# Diagnostic-Tracker
-SQL + Python service ticket monitoring system to log and trace support outcomes, with priority tagging, auto-closing alerts, and weekly resolution metrics. Created a mock ticketing dashboard using Data Visualisation methods in Python Simulates CRUD functionality on a local, temporary data set
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`

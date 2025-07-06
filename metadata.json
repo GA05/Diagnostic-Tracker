@@ -1,0 +1,6 @@
+{
+  "name": "Diagnostic Ticketing Tracker",
+  "description": "An Airtable-like system to log and trace support outcomes using natural language input. Features priority tagging, status tracking, and weekly resolution metrics dashboard.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
